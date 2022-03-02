@@ -3,6 +3,7 @@
 **2-brin_me_home - This script changes the current directory to home**
 **3-listfiles - This script displays the current directory contents in a long format**
 **4-listmorefiles - This script displays the current directory contents, including hidden files (starting with .). Use the long format.**
-**5-listfilesdigitonly - Tis script displays the current directory contents:Long format
+**5-listfilesdigitonly - This script displays the current directory contents:Long format
 with user and group IDs displayed numerically
 And hidden files (starting with .)**
+**6-firstdirectory - This scrip creates  directory named my_first_directory in the /tmp/ directory.**
